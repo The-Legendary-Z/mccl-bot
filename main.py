@@ -116,4 +116,3 @@ async def info(ctx):
 
 
 client.run("Nope lols")
-#Test
